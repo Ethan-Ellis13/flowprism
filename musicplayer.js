@@ -35,7 +35,7 @@ let track_list = [
     image:
       "https://images.pexels.com/photos/159613/ghettoblaster-radio-recorder-boombox-old-school-159613.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
-      "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
+      "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FHip%20Hop%20Christmas%20-%20Twin%20Musicom%20%C2%B7%20_Free%20Copyright-safe%20Music_.mp3?v=1607756773999"
   },
   {
     name: "The Clock (instrumental) - RYYZN",
@@ -43,7 +43,7 @@ let track_list = [
     image: 
     "https://images.pexels.com/photos/3329110/pexels-photo-3329110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
-      "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3"
+      "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FThe%20Clock%20(instrumental)%20%E2%80%93%20RYYZN%20(No%20Copyright%20Music)%20(320%20kbps).mp3?v=1607757021800"
   }
 ];
 
