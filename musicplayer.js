@@ -22,26 +22,26 @@ let curr_track = document.createElement("audio");
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Audio Libray",
-    artist: "Deck the Halls – Jingle Punks",
+    name: "Deck the Halls – Jingle Punks",
+    artist: "Audio Library",
     image:
       "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FDeck%20the%20Halls%20-%20Jingle%20Punks%20(No%20Copyright%20Music).mp3?v=1607564823789"
   },
   {
-    name: "Enthusiast",
-    artist: "Tours",
+    name: "Hip Hop Christmas- Twin Musicom",
+    artist: "Audio Library",
     image:
       "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path:
       "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
   },
   {
-    name: "Shipping Lanes",
-    artist: "Chad Crouch",
-    image:
-      "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    name: "The Clock (instrumental) - RYYZN",
+    artist: "Audio Library",
+    image: 
+    "https://images.pexels.com/photos/3329110/pexels-photo-3329110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
       "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3"
   }
