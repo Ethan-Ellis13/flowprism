@@ -300,6 +300,11 @@ i ~ span {
   margin-right: auto;
 }
 
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+}
+
 /* Page content */
 .content {
   padding: 16px;
