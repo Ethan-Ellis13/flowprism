@@ -26,7 +26,7 @@
 
 /* Add a color to the active/current link */
 .navbar a.active {
-  background-color: black;
+  background-color: #300d54;
   color: white;
 }
 
