@@ -58,6 +58,12 @@
   line-height: 10%;
 }
 
+.paragraph4 {
+  font-size: 15px;
+  text-align: center;
+  font-family: "Francois One";
+}
+
 .homepagetext {
   font-size: 50px;
   text-align: center;
@@ -229,7 +235,7 @@ i ~ span {
 
 .quick-links {
   display: flex;
-  width: 650px;
+  width: 560px;
   height: 70px;
   margin: auto;
 }
@@ -316,11 +322,16 @@ i ~ span {
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 1;
 }
 
 /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
 .sticky + .content {
   padding-top: 60px;
+}
+
+.contact-img {
+  text-align: center;
 }
 
 /* Contact Form */
