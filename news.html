@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-light">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Francois+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <title>News - Flowprism</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="style.css"/>
+    <!-- <link rel="stylesheet" href="theme-switch.css"/> -->
+
+    <!-- import the webpage's javascript file -->
+    <script src="main.js" defer></script>
+    <!-- <script src="theme-switch.js" defer></script> -->
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a class="active" href="news.html">News</a>
+      <a href="musicplayer.html">Music Player</a>
+      <a href="contact.html">Contact</a>
+      <a href="about.html">About</a>
+    </div>
+
+    <h2 class="title">
+      News
+    </h2>
+
+   <!-- Theme Switcher Button -->
+   
+ 
+
+
+    <!-- Button Element Controls-->
+
+    <div class="btns" id="myBtnContainer">
+      <button class="btn" onclick="filterSelection('all')">
+        <p class="paragraph">Show all</p>
+      </button>
+
+      <button class="btn" onclick="filterSelection('today')">
+        <p class="paragraph">Today</p>
+      </button>
+
+      <button class="btn" onclick="filterSelection('this-week')">
+        <p class="paragraph">This week</p>
+      </button>
+
+      <button class="btn" onclick="filterSelection('this-month')">
+        <p class="paragraph">This month</p>
+      </button>
+    </div>
+
+    <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
+    <div class="grid-container container">
+      <div class="filterDiv today this-week this-month card left row1">
+        <a href="blogone.html" target="_blank">
+          <img
+            src="https://www.jananews.com/wp-content/uploads/2019/11/p07gq3kw.jpg"
+            width="400px"
+            height="200px"
+        /></a>
+        <div class="containerone">
+          <p class="paragraph">
+            The Science Behind Music
+          </p>
+          <p class="paragraph2">
+            12/6
+          </p>
+        </div>
+      </div>
+
+      <div class="filterDiv this-week this-month card right row1">
+        <a href="blogtwo.html" target="blank"
+          ><img
+            src="https://www.wyzowl.com/wp-content/uploads/2018/08/The-20-Best-Royalty-Free-Music-Sites-in-2018.png"
+            width="400px"
+            height="200px"
+        /></a>
+        <div class="containerone">
+          <p class="paragraph">New Music This Month</p>
+          <p class="paragraph2">12/3</p>
+        </div>
+      </div>
+
+      <div class="filterDiv this-month card left 2">
+        <img
+          src="https://www.howtogeek.com/thumbcache/2/200/3c257582e52cc3fa890e07ddb46bbfac/wp-content/uploads/2015/09/music.jpg"
+          width="400px"
+          height="200px"
+        />
+        <div class="containerone">
+          <p class="paragraph">
+            List of Virtual Concerts
+          </p>
+          <p class="paragraph2">
+            12/17
+          </p>
+        </div>
+      </div>
+
+      <div class="filterDiv this-week this-month card right row2">
+        <a href="blogthree.html" target="_blank"
+          ><img
+            src="https://play-guitars.com/wp-content/uploads/2019/06/which-is-the-easiest-guitar-to-learn-for-beginners.jpg"
+            width="400px"
+            height="200px"
+        /></a>
+        <div class="containerone">
+          <p class="paragraph">
+            POLL: Favorite Genre of Music?
+          </p>
+          <p class="paragraph2">
+            12/5
+          </p>
+        </div>
+      </div>
+
+      <div class="filterDiv this-month card left row3">
+        <img
+          src="https://www.vidyard.com/media/best-background-music-for-videos.jpg"
+          width="400px"
+          height="200px"
+        />
+        <div class="containerone">
+          <p class="paragraph">
+            New Music This Month
+          </p>
+          <p class="paragraph2">
+            12/28
+          </p>
+        </div>
+      </div>
+
+      <div class="filterDiv this-month card right row3">
+        <img
+          src="https://www.yogajournal.com/.image/t_share/MTY3NDk1OTM1NjIwODE4MzEx/woman-meditating-with-headphones.jpg"
+          width="400px"
+          height="200px"
+        />
+        <div class="containerone">
+          <p class="paragraph">
+            Welcome to Flowprism
+          </p>
+          <p class="paragraph2">
+            12/15
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="inner footer">
+        <div class="social-links">
+          <ul>
+            <li class="social-items">
+              <a href="https://www.facebook.com/"
+                ><i class="fa fa-facebook"></i
+              ></a>
+            </li>
+            <li class="social-items">
+              <a href="https://instagram.com/"
+                ><i class="fa fa-instagram"></i
+              ></a>
+            </li>
+            <li class="social-items">
+              <a href="https://twitter.com/"
+                ><i class="fa fa-twitter-square"></i
+              ></a>
+            </li>
+            <li class="social-items">
+              <a href="https://www.youtube.com/"
+                ><i class="fa fa-youtube"></i
+              ></a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="quick-links">
+          <ul>
+            <li class="quick-items"><a href="index.html">Home</a></li>
+            <li class="quick-items"><a href="features.html">Features</a></li>
+            <li class="quick-items"><a href="news.html">News</a></li>
+            <li class="quick-items">
+              <a href="musicplayer.html">Music Player</a>
+            </li>
+            <li class="quick-items"><a href="contact.html">Contact</a></li>
+            <li class="quick-items"><a href="about.html">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
