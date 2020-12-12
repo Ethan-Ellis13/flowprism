@@ -188,6 +188,7 @@ img {
   color: white;
   padding: 70px, 0;
   box-sizing: border-box;
+  isolation: isolate;
 }
 
 i ~ span {
