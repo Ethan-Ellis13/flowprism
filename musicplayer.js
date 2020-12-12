@@ -25,7 +25,7 @@ let track_list = [
     name: "Deck the Halls – Jingle Punks",
     artist: "Audio Library",
     image:
-      "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+      "https://images.pexels.com/photos/3224164/pexels-photo-3224164.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FDeck%20the%20Halls%20-%20Jingle%20Punks%20(No%20Copyright%20Music).mp3?v=1607564823789"
   },
@@ -33,7 +33,7 @@ let track_list = [
     name: "Hip Hop Christmas- Twin Musicom",
     artist: "Audio Library",
     image:
-      "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+      "https://images.pexels.com/photos/159613/ghettoblaster-radio-recorder-boombox-old-school-159613.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
       "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
   },
