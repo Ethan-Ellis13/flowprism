@@ -44,6 +44,14 @@ let track_list = [
     "https://images.pexels.com/photos/3329110/pexels-photo-3329110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FThe%20Clock%20(instrumental)%20%E2%80%93%20RYYZN%20(No%20Copyright%20Music)%20(320%20kbps).mp3?v=1607757021800"
+      },
+  {
+    name: "The Ethan-ManMan Rap",
+    artist: "Hit Single!",
+    image: 
+    "https://images.pexels.com/photos/3329110/pexels-photo-3329110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    path:
+      "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
   }
 ];
 
