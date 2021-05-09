@@ -49,7 +49,7 @@ let track_list = [
     name: "The Ethan-ManMan Rap",
     artist: "Hit Single!",
     image: 
-    "https://images.pexels.com/photos/3329110/pexels-photo-3329110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2F20210508_192530.jpg?v=1620527978537",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
   }
