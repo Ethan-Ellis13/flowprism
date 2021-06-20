@@ -52,8 +52,17 @@ let track_list = [
     "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2F20210508_192530.jpg?v=1620527978537",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
-  }
+      },
+  {
+    name: "Daddy's Day!",
+    artist: "Hit Single #2!",
+    image: "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FUntitled.png?v=1624165904447",
+    path: 
+     "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fwe%20the%20sons%20(1).mp3?v=1624166121999"
+      },
 ];
+
+https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fwe%20the%20sons%20(1).mp3?v=1624166121999
 
 function random_bg_color() {
   // Get a number between 64 to 256 (for getting lighter colors)
