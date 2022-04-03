@@ -52,6 +52,14 @@ let track_list = [
     "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2F20210508_192530.jpg?v=1620527978537",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
+  },
+    {
+    name: "When She Glows",
+    artist: "Ethan and Man Man",
+    image: 
+    "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2F20210508_192530.jpg?v=1620527978537",
+    path:
+      "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
   }
 ];
 
