@@ -46,19 +46,26 @@ let track_list = [
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FThe%20Clock%20(instrumental)%20%E2%80%93%20RYYZN%20(No%20Copyright%20Music)%20(320%20kbps).mp3?v=1607757021800"
       },
   {
-    name: "The Ethan-ManMan Rap",
-    artist: "Hit Single!",
+    name: "My Momma",
+    artist: "Ethan and Man Man",
     image: 
     "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2F20210508_192530.jpg?v=1620527978537",
     path:
       "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fethan-manman-rap.mp3?v=1620510091191"
       },
   {
-    name: "Daddy's Day!",
-    artist: "Hit Single #2!",
+    name: "40 Lookin' 1",
+    artist: "Ethan and Man Man",
     image: "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FUntitled.png?v=1624165904447",
     path: 
      "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2Fwe%20the%20sons%20(1).mp3?v=1624166121999"
+      },
+{
+   name: "When She Glows",
+    artist: "Ethan and Man Man",
+    image: "https://cdn.glitch.com/6ad63622-6ccd-43c6-afd2-db1b40642fd9%2FUntitled.png?v=1624165904447",
+    path: 
+     "https://cdn.glitch.global/6ad63622-6ccd-43c6-afd2-db1b40642fd9/krishelle_new_song.mp3?v=1649025874685"
       },
 ];
 
